@@ -1,0 +1,17 @@
+1-Explique as diferenças entre 3 linguagens de programação: 
+Existem diversas linguagens de programação diferentes, cada uma com sua própria sintaxe, semântica e características específicas. Contudo, vou esclarecer vou mostrar a diferença entre três das linguagens de programação mais populares: 
+
+Python: Trata-se de uma linguagem de programação interpretada de elevado nível, originada em 1991. Destaca-se por sua sintaxe simples e de fácil leitura, o que a torna uma das linguagens mais acessíveis para aprendizado. Python é frequentemente empregada no desenvolvimento de aplicações web, análise de dados, inteligência artificial e aprendizado de máquina.
+
+Java: Java é uma linguagem de programação orientada a objetos, criada em 1995. É conhecida por sua robustez e portabilidade, indicando que um programa Java pode ser executado em qualquer plataforma contendo uma máquina virtual Java instalada. Java é frequentemente utilizada no desenvolvimento de aplicações empresariais, jogos e aplicativos móveis.
+
+C++: C++ é uma linguagem de programação de elevado nível, originada em 1985 como uma extensão da linguagem C. É reconhecida por sua eficiência e potência, com suporte à programação orientada a objetos e genérica. C++ é frequentemente empregada no desenvolvimento de sistemas operacionais, jogos, aplicações de desktop e dispositivos embarcados.
+
+Em resumo, Python é uma linguagem acessível e versátil, Java é robusta e portátil, e C++ é eficaz e poderosa. Cada linguagem de programação é apropriada para diferentes tarefas e projetos, dependendo das exigências do desenvolvedor.
+
+2-Tente fazer um código mínimo em cada uma delas e execute: Aqui estão alguns exemplos de códigos mínimos em Python, Java e C++. 
+
+Python: Python Copy code print ("Hello, world!"). Este é um exemplo clássico de programa "Hello, World!" em Python. Ele simplesmente exibe a frase "Hello, world!" no console. 
+
+Java: Java Copy code public class HelloWorld { public static void main(String[] args) { System.out.println("Hello, world!"); } } Este é um exemplo de programa "Hello, World!" em Java. Ele define uma classe chamada HelloWorld com um método main que exibe a frase "Hello, world!" no console. 
+C++: c++ Copy code #include <iostream> int main() { std::cout << "Hello, world!" << std::endl; return 0; } Este é um exemplo de programa "Hello, World!" em C++. Ele inclui a biblioteca iostream para permitir a saída para o console, define uma função main que exibe a frase "Hello, world!" e retorna 0 para indicar que o programa foi executado com sucesso.
